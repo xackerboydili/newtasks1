@@ -231,3 +231,14 @@
 
 "27"
     
+// function repeatStr (n, s) {
+//     return n.repeat(s)
+// }
+// console.log(repeatStr("1", 4))
+
+"28"
+
+// function doubleInteger(i) {
+//     return i * 2;
+// }
+// console.log(doubleInteger(3))
