@@ -214,3 +214,20 @@
 // console.log(grow([1, 2, 3, 4,]))
 
 '25'
+
+// function squareSum(numbers){
+//     return numbers.reduce((a, b) => (b * b) + a)
+// }
+// console.log(squareSum([1, 2, 2]))
+
+"26"
+
+// function addLength(str) {
+//     let string = str.split(" ")
+//         str.padEnd(5, " ")
+//     return string
+// }
+// console.log(addLength("you will win"))
+
+"27"
+    
